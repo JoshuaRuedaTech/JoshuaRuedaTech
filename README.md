@@ -22,7 +22,7 @@
 - Open to Systems Administrator, Network Administrator, Cybersecurity Analyst positions in the Chicagoland area
 
   ---
-  *Building practical skills through labs, certifications and formal education.
+  *Building practical skills through labs, certifications and formal education.*
 <!--
 **JoshuaRuedaTech/JoshuaRuedaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
