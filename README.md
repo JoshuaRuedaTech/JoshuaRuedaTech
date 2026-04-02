@@ -11,10 +11,10 @@
 ## Featured Projects
 
 ## Certifications
--CompTIA Security+
--CompTIA Network+
--Microsoft AZ-900
--CompTIA IT Fundamentals (ITF+)
+- CompTIA Security+
+- CompTIA Network+
+- Microsoft AZ-900
+- CompTIA IT Fundamentals (ITF+)
 
 ## Let's Connect
 - [LinkedIn] (https://www.linkedin.com/in/joshua-rueda-2999188/)
